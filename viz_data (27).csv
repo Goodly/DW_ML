@@ -1,0 +1,29 @@
+Article ID,Credibility Indicator ID,Credibility Indicator Category,Credibility Indicator Name,Points,Indices of Label in Article,Start,End,target_text
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,H0,Holistic,Qualified Source,2.0,"range(463, 522)",463,522,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,H0,Holistic,Qualified Source,0,"range(565, 605)",565,605,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,H0,Holistic,Qualified Source,0,"range(623, 826)",623,826,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,H0,Holistic,Qualified Source,0,"range(2834, 3207)",2834,3207,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,H0,Holistic,Qualified Source,0,"range(3435, 3595)",3435,3595,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,L0,Language,Metaphor unhelpful,-1.0,"range(387, 399)",387,399,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,L1,Language,Inappropriately emotional,-4.5,"range(1172, 1236)",1172,1236,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,L2,Language,Inappropriately emotional,-4.5,"range(1504, 1529)",1504,1529,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P0,Probability,Acknowledges uncertainty,0.3736791177822997,"range(259, 268)",259,268,might hav
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P1,Probability,Open to evidence,0.8,"range(1117, 1247)",1117,1247,It might be US army who brought the epidemic to Wuhan. Be transparent! Make public your data
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P1,Probability,Open to evidence,0,"range(1299, 1343)",1299,1343,It might be US army who brought the epidemic to Wuhan. Be transparent! Make public your data
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P2,Probability,Inappropriate confidence,-0.8,"range(3092, 3198)",3092,3198,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P3,Probability,Doesn’t acknowledge uncertainty,-1.6,"range(2883, 3013)",2883,3013,"this outbreak in Wuhan was covered up,"" Trump's national security advisor O'Brien said during a think-tank appearance on Wednesday"
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P4,Probability,Inappropriate confidence,-0.8,"range(2834, 2920)",2834,2920,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P4,Probability,Inappropriate confidence,0,"range(3017, 3198)",3017,3198,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,P5,Probability,Doesn’t acknowledge uncertainty,-1.6,N,-1,-1,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R0,Reasoning,Hindsight Bias,-4.0,"range(3017, 3198)",3017,3198,"It probably cost the world community two months to respond,"" during which ""we could have dramatically curtailed what happened both in China and what's now happening across the world"
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R1,Reasoning,Other misleading reasoning,-1.5,"range(3017, 3198)",3017,3198,we could have dramatically curtailed what happened both in China and what's now happening across the world
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R2,Reasoning,False Dilemma,-2.5,"range(3017, 3198)",3017,3198,"It probably cost the world community two months to respond,"" during which ""we could have dramatically curtailed what happened both in China and what's now happening across the world"
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R3,Reasoning,Equivocation,-2.5,"range(3017, 3198)",3017,3198,we could have
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R4,Reasoning,Misleading argument,-4.0,"range(3017, 3198)",3017,3198,nan
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R5,Reasoning,Begging the Question,-2.6666666666666665,"range(1015, 1048)",1015,1048,When did patient zero begin in US
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R5,Reasoning,Begging the Question,0,"range(1117, 1170)",1117,1170,When did patient zero begin in US
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R6,Reasoning,Appeal to Ignorance,-5.0,"range(1015, 1048)",1015,1048,It might be US army who brought the epidemic to Wuhan. Be transparent! Make public your data
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R6,Reasoning,Appeal to Ignorance,0,"range(1117, 1209)",1117,1209,It might be US army who brought the epidemic to Wuhan. Be transparent! Make public your data
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R7,Reasoning,Other logical fallacies,-1.0,"range(1015, 1048)",1015,1048,When did patient zero begin in US
+3be14d67e2d88964904dcbe7df176bb81dacfc76a6f2e4ec66b45681c86c9301,R7,Reasoning,Other logical fallacies,0,"range(1117, 1209)",1117,1209,When did patient zero begin in US
+,,,,,,,,
